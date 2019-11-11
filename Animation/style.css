@@ -1,0 +1,11 @@
+img{
+    height: 70px;
+}
+
+.buttons {
+    position:absolute;
+    bottom: 20px;
+}
+.stop {
+    display: none;
+}
